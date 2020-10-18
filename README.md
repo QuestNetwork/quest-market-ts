@@ -1,5 +1,5 @@
 # Quest Market JS
-> API Interface for [qDesk Markets](https://github.com/QuestNetwork/qd-markets-js) 
+> API Interface for [qDesk Market](https://github.com/QuestNetwork/qd-market-ts) 
 
 ## Lead Maintainer
 
